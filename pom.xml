@@ -39,7 +39,7 @@
 	</build>
 	<modules>
 		<module>../rbac-admin</module>
-		<module>../rbac-core</module>
+		<module>../rbac-cores</module>
 		<module>../rbac-common</module>
 	</modules>
 </project>
